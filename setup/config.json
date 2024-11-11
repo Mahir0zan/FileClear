@@ -1,0 +1,10 @@
+{
+    "wait":10,
+    "folders": [
+        "<user>/Documents"
+    ],
+    "dots": {
+        ".txt":"<user>/Pictures",
+        ".bit":"<user>/Pictures"
+    }
+}
